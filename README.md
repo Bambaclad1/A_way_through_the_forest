@@ -1,7 +1,7 @@
 
 # A Way Through the Forest
 
-Hi! My name is Ramandeep Singh, and this is my game. I will give you a disclaimer, and that is to please mind my broken English. English is not my main language, and especially grammar is a subject I suck at. But I try my best!
+Hi! My name is Raman, and this is my game. I will give you a disclaimer, and that is to please mind my broken English. English is not my main language, and especially grammar is a subject I suck at. But I try my best!
 While I speak Dutch, I find it more convenient to explain this in English, because of  the sake of unity engine being a English program.
 
 My first project was supposed to be a FPS shooter, largely inspired by Superhot, but I scrapped it as my knowledge of scripting was pretty weak. So I had some thinking going on.
