@@ -1,5 +1,7 @@
 
 # A Way Through the Forest
+![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/37e6c185-6143-4ac8-a5d6-2ab5ffff5b59)
+
 
 Hi! My name is Raman, and this is my game. I will give you a disclaimer, and that is to please mind my broken English. English is not my main language, and especially grammar is a subject I suck at. But I try my best!
 While I speak Dutch, I find it more convenient to explain this in English, because of  the sake of unity engine being a English program.
@@ -9,6 +11,7 @@ I decided to make a horror game experience, not only can I easily fit in a story
 
 My game name is: A Way Through the Forest, and the gameplay is exactly the title.
 My focus is to make a storyline on this, and have the forests have different visuals, for example, a cherry tree area, which gives Japan vibes to it, but also try to extend forests, to include epic houses you can discover and interact with.
+
 
 
 ## Contents
