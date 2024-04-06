@@ -1,4 +1,4 @@
-# alpha build now available!
+#### alpha build now available!
 
 # A Way Through the Forest
 ![Schermafbeelding_2024-04-06_090039](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/15f7dc8b-92b4-40b3-b80f-68e8a4ea7333)
