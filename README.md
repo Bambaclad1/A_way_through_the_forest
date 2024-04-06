@@ -1,6 +1,7 @@
 
 # A Way Through the Forest
 ![Schermafbeelding_2024-04-06_090039](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/15f7dc8b-92b4-40b3-b80f-68e8a4ea7333)
+alpha build now available.
 
 
 Hi! My name is Raman, and this is my game. I will give you a disclaimer, and that is to please mind my broken English. English is not my main language, and especially grammar is a subject I suck at. But I try my best!
