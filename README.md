@@ -1,6 +1,6 @@
 
 # A Way Through the Forest
-![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/37e6c185-6143-4ac8-a5d6-2ab5ffff5b59)
+![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/a603876c-744e-43e7-8e6b-c1c3bafc62f5)
 
 
 Hi! My name is Raman, and this is my game. I will give you a disclaimer, and that is to please mind my broken English. English is not my main language, and especially grammar is a subject I suck at. But I try my best!
