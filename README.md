@@ -2,7 +2,7 @@
 #### this demo uses placeholder assets, and thus assests from others.
 
 # A Way Through the Forest
-![Schermafbeelding_2024-04-06_090039](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/15f7dc8b-92b4-40b3-b80f-68e8a4ea7333)
+![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/acf64f4a-a37b-4390-b1bc-e7cc0a4beda2)
 
 A Way Through the Forest is a horror game, and it is inspired by that goofy slenderman game on your device. Although, there is more lore behind it, and thus, you explore different forests. Your only goal is to make it out alive, and try to survive. Good luck, you'll need it.
 
