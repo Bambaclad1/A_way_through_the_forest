@@ -109,6 +109,13 @@ Footstep
 ## Version Logging
 v0.30-alpha - alpha release of the game for people to try out
 
+6-4/7-4
+![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/2396f789-caee-4222-9ca3-d79b439eefc5)
+added some lore
+![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/3ef5427c-6ab0-423f-a98e-7971e7fb1501)
+computer which is supposed to run windows 98, you can find a suicide note in this (recorded this all in a pcem vm im so cool)
+new script added to the game 
+
 ## FAQ
 you
 
