@@ -1,6 +1,6 @@
 #### alpha build now available.
 #### this demo uses placeholder assets, and thus assests from others.
-
+#### the game isnt that spooky at all, it was just experimenting with lighting.
 # A Way Through the Forest
 ![image](https://github.com/Bambaclad1/A_way_through_the_forest/assets/67043806/acf64f4a-a37b-4390-b1bc-e7cc0a4beda2)
 
