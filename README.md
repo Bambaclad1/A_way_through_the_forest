@@ -117,6 +117,8 @@ added some lore
 computer which is supposed to run windows 98, you can find a suicide note in this (recorded this all in a pcem vm im so cool)
 new script added to the game 
 
+I haven't been able to snatch the latest build available, im sorry peeps :( you're gonna get to play a older game now
+
 ## FAQ
 you
 
